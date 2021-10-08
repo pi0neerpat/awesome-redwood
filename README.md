@@ -241,6 +241,8 @@ A community-driven collection of Redwood related plugins, config, themes, build 
   * [Summary](https://community.redwoodjs.com/t/going-to-production-with-my-redwood-powered-side-project/1062) - Beto de Castro Moreira
 * [isBusy](https://isbusy.app/) - Get a free-forever personal status page for remote work
   * [Summary](https://community.redwoodjs.com/t/first-project-w-redwood-isbusy-free-personal-status-page-for-remote-work/837) - Mark Thomas
+* [Swordy Boy](https://swordybot.com) - Manage & monetize your Discord community
+  * [Summary](https://community.redwoodjs.com/t/swordy-bot-discord-role-manager/2410?u=pi0neerpat) - Pi0neerpat
 
 ## Community
 
